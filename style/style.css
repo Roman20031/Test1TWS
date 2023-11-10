@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    text-align: center;
+    
+  }
+
+footer{
+    background-color: blueviolet;
+    text-align: start;
+}
+
+div{
+    background-color: blue;
+    margin-right: 150px;
+    margin-left: 150px;
+    
+}
+
+ul{
+    background-color: aqua;
+    text-align: end;
+    
+    
+    
+}
+ 
+p{
+    display: flex;
+    justify-content: space-around;
+
+    background-color: aquamarine;
+    
+    border-radius: 5px;
+    
+    bottom: 0;
+    
+}
+.bottom {
+    position: fixed;
+    bottom: 0;
+}
+
+
